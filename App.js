@@ -37,11 +37,11 @@ export default function App() {
             options={{
               headerShown: false,
             }}>
-            {(props) => <Home {...props} channelName={"Thapa Technical"} />}
+            {(props) => <Home {...props} channelName={"Himanshu Class"} />}
           </Stack.Screen>
 
           {/* Course Screen  */}
-          {/* <Stack.Screen
+          <Stack.Screen
             name="Course"
             component={Course}
             options={{
@@ -52,10 +52,10 @@ export default function App() {
               headerTitle: "Courses",
               headerTitleAlign: "center",
             }}
-          /> */}
+          />
 
           {/* UserData Screen  */}
-          {/* <Stack.Screen
+          <Stack.Screen
             name="Student"
             component={UserData}
             options={{
@@ -66,10 +66,10 @@ export default function App() {
               headerTitle: "Students Data",
               headerTitleAlign: "center",
             }}
-          /> */}
+          />
 
           {/* About Screen  */}
-          {/* <Stack.Screen
+          <Stack.Screen
             name="About"
             component={About}
             options={{
@@ -79,10 +79,10 @@ export default function App() {
               },
               headerTitleAlign: "center",
             }}
-          /> */}
+          />
 
           {/* Contact Screen  */}
-          {/* <Stack.Screen
+          <Stack.Screen
             name="Contact"
             component={Contact}
             options={{
@@ -92,10 +92,10 @@ export default function App() {
               },
               headerTitleAlign: "center",
             }}
-          /> */}
+          />
 
           {/* CourseDetails Screen  */}
-          {/* <Stack.Screen
+          <Stack.Screen
             name="CourseDetails"
             component={CourseDetails}
             options={{
@@ -105,7 +105,7 @@ export default function App() {
               },
               headerTitleAlign: "center",
             }}
-          /> */}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     );

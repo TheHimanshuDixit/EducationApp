@@ -18,7 +18,6 @@ const Home = (props) => {
     }
 
     else {
-
         SplashScreen.hideAsync();
         const description =
             "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. ";
@@ -68,7 +67,7 @@ const styles = StyleSheet.create({
         height: "100%",
         display: "flex",
         justifyContent: "space-between",
-        paddingHorizontal: 20,
+        paddingHorizontal: 30,
         backgroundColor: "#fff",
         textAlign: "center",
     },
