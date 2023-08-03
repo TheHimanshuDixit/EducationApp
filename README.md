@@ -1,4 +1,5 @@
 # EducationApp
+## An React Native app where user can register course.
 
 ![Screenshot 2023-07-20 012238](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/c72f1a7c-e33d-42a1-9213-5ebc4cf1e98c)
 
