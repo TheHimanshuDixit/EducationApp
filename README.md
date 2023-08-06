@@ -18,3 +18,9 @@
 ![Screenshot 2023-07-20 012337](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/b2585386-9f3d-480a-abc1-e85af3d74bf2)
 
 ![Screenshot 2023-07-20 012402](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/9917d0db-d012-4c00-b663-c01f2d3f2c39)
+
+
+# How to run code
+```
+1. Clone this repo
+```
