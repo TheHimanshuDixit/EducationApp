@@ -1,5 +1,5 @@
 # EducationApp
-## An React Native app where user can register course.
+## An React Native App where user can register course.
 
 
 # Tech Used 
