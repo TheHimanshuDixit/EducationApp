@@ -49,9 +49,3 @@ Start the program
   npm run start
 ```
 
-
-
-# How to run code
-```
-1. Clone this repo
-```
