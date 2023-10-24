@@ -1,23 +1,54 @@
-# EducationApp
-## An React Native App where user can register course.
+# Ecommerce Website of cloths
+
+An React Native App where user can register course.
 
 
-# Tech Used 
-### React Native
+# Tech used 
+
+**React Native**
 
 
-# Screenshots
-![Screenshot 2023-07-20 012238](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/c72f1a7c-e33d-42a1-9213-5ebc4cf1e98c)
+# Screenshot
+![Screenshot 2023-07-20 012238](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/4d3583c9-3f97-4153-a2b2-2365778cf60e)
 
-![Screenshot 2023-07-20 012449](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/f87c38b5-f1b0-4ae8-bd64-87f16175e061)
+![Screenshot 2023-07-20 012323](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/6e2cdc20-fc0c-4cf4-9d26-550fe13988f2)
 
-![Screenshot 2023-07-20 012418](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/ba8efb76-995b-4640-bd27-b82e93900448)
+![Screenshot 2023-07-20 012337](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/711434ec-c038-46cf-8b89-86dbfd485d9b)
 
-![Screenshot 2023-07-20 012323](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/32a19b96-2cfd-4db9-9520-ae830fa1cfe7)
+![Screenshot 2023-07-20 012418](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/c567c2bd-3edc-4e59-b1bf-f0994532cf9a)
 
-![Screenshot 2023-07-20 012337](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/b2585386-9f3d-480a-abc1-e85af3d74bf2)
+![Screenshot 2023-07-20 012449](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/db5e2449-a8f8-426e-ad98-19c2405e4431)
 
-![Screenshot 2023-07-20 012402](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/9917d0db-d012-4c00-b663-c01f2d3f2c39)
+![Screenshot 2023-07-20 012402](https://github.com/TheHimanshuDixit/EducationApp/assets/107857348/8d9ffbd1-a972-4023-b5ac-ef992b311985)
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the program
+
+```bash
+  npm run start
+```
+
 
 
 # How to run code
